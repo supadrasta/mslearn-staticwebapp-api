@@ -2,7 +2,7 @@
 
 This project was created to help represent a fundamental app written with Angular. The shopping theme is used throughout the app.
 
-## Getting Started
+## Getting Started ..26 oct 2022
 
 1. Create a repository from this template repository <https://github.com/MicrosoftDocs/mslearn-staticwebapp/generate>
 
